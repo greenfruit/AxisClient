@@ -4,6 +4,9 @@ import org.apache.axis.client.Service;
 import javax.xml.namespace.QName;
 import java.net.URL;
 
+/**
+ * axis 1.4 java 客户端 基于RPC
+ */
 public class GaClient {
 	public static void main(String[] args) throws Exception {
         //创建服务对象   
